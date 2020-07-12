@@ -1,0 +1,176 @@
+
+body{
+
+}
+
+#title{
+	background:#ff4c68;
+	color:white;
+}
+
+#title h1 {
+font-size:3.6rem;
+line-height:1.3;
+font-weight:bold;
+letter-spacing:-0.1rem;
+margin:1rem 0;
+
+}
+ 
+
+#title .container-fluid{
+
+  padding:1% 14% 8%;
+}
+#title .container-fluid .navbar-brand{
+font-size:2.2rem;
+font-weight:bold;
+}
+
+
+ .nav-item{
+    padding:0 18px;
+	font-size:1.3rem;
+} 
+
+ #title .navbar{
+	padding:0 0 3.5rem 0;
+}
+
+/* Download Buttons */
+
+.download-button{
+margin:0.3rem;
+}
+
+/* title image */
+
+.title-image{
+	width:60%;
+	transform:rotate(25deg);
+	position:absolute;
+
+}
+
+/* Features */
+
+#features{
+
+	padding:7% 15%;
+	background-color:#fff;
+	position:relative;
+	z-index:1;
+}
+.feature-box{
+	text-align:center;
+	padding:6%;
+}
+
+
+#features h3{
+	font-weight:bolder;
+	font-size:1.6rem;
+}
+#features p{
+	color:#8f8f8f;
+}
+
+#features .feature-box .icon{
+	color:#ef8172;
+	margin-bottom:1rem;
+}
+
+#features .feature-box .icon:hover{
+	color:#ff4c68;
+}
+/* Testimonial Section */
+
+#testimonials{
+	padding:7% 15%;
+	text-align:center;
+	background-color:#ef8172;
+	color:white;
+}
+
+
+#testimonials h2{
+	font-size:2.9rem;
+	line-height:1.5;
+	font-weight:bold;
+}
+
+#testimonials .testimonials-image{
+	width:10%;
+	border-radius:100%;
+	margin:20px;
+}
+
+
+#press{
+	background-color:#ef8172;
+	text-align:center;
+	padding-bottom:3%;
+}
+
+
+#press .press-image{
+	width:15%;
+	margin:20px 20px;
+	
+}
+
+.carousel-item{
+	padding:7% 15%;
+}
+
+#pricing{
+	padding:100px;
+}
+
+#pricing .pricing-column{
+	padding:3% 2%;
+}
+#pricing h2 {
+	font-size:3rem;
+	font-weight: bold;
+	text-align:center;
+}
+
+#pricing p{
+	text-align:center;
+	color:#8f8f8f;
+}
+#pricing h3{
+	text-align:center;
+	font-weight: bold;
+}
+
+
+
+
+#cta{
+	background:#ff4c68;
+	color:white;
+	padding:7% 15%;
+	text-align:center;
+	
+}
+
+
+#cta h3{
+	font-size:4rem;	
+}
+
+#cta .download-button{
+	margin:1rem 0.3rem;
+}
+
+
+
+#footer{
+	padding:7% 15%;
+	text-align:center;
+}
+#footer .social-icon{
+	margin:20px 10px;
+}
